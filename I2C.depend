@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1493151880 source:/home/pi/Programming/C++/I2C/main.cpp
+	"I2C.h"
+	<iostream>
+	<unistd.h>
+
+1468240515 /home/pi/Programming/C++/I2C/include/I2C.h
+
+1468241229 source:/home/pi/Programming/C++/I2C/src/I2C.cpp
+	<stdlib.h>
+	<unistd.h>
+	<linux/i2c-dev.h>
+	<fcntl.h>
+	<string.h>
+	<stdio.h>
+	<iostream>
+	</home/pi/Programming/C++/I2C/include/I2C.h>
+
